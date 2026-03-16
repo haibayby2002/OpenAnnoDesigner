@@ -1,6 +1,10 @@
 # OpenAnnoDesigner
 
+![OpenAnnoDesigner screenshot](docs/screenshot.png)
+
 OpenAnnoDesigner is a React app (Create React App) for designing/previewing annotation layouts.
+
+> Note: To make the screenshot render on GitHub, save the image file as `docs/screenshot.png` in this repository.
 
 ## Requirements
 
